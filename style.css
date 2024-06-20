@@ -5,3 +5,10 @@
         background-color: brown;
         margin: 50px;
     }
+
+    h2 {
+
+        text-align: center;
+        text-decoration: underline;
+        font-size: medium;
+    }
